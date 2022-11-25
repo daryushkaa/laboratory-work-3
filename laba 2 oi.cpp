@@ -7,7 +7,7 @@ using namespace std;
 
 int main() 
 {
-	double a, b, n, l;
+	double a, b, n;
 	double y = 0;
 	double sum = 0;
 	double sum1 = 0;
